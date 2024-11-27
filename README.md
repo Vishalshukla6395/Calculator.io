@@ -29,6 +29,6 @@ A sleek and interactive calculator for performing basic arithmetic operations. B
 ---
 
 ## Live Demo
-Try the calculator here: [Live Demo](#).
+Try the calculator here: [Live Demo](https://vishalshukla6395.github.io/CodeAlphaFE-Calculator/).
 
 ---
